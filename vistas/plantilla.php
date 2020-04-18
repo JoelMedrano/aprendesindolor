@@ -11,12 +11,12 @@ session_start();
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-  <title>Inventory System</title>
+  <title>Aprende sin dolor</title>
 
   <!-- Tell the browser to be responsive to screen width -->
   <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
 
-  <link rel="icon" href="vistas/img/plantilla/icono-negro.png">
+  <link rel="icon" href="vistas/img/plantilla/favicon.png">
 
    <!--=====================================
   PLUGINS DE CSS
@@ -99,7 +99,7 @@ session_start();
   <script src="vistas/bower_components/morris.js/morris.min.js"></script>
 
   <!-- ChartJS http://www.chartjs.org/-->
-  <script src="vistas/bower_components/Chart.js/Chart.js"></script>
+  <script src="vistas/bower_components/chart.js/Chart.js"></script>
 
 
 
@@ -110,7 +110,7 @@ session_start();
 CUERPO DOCUMENTO
 ======================================-->
 
-<body class="hold-transition skin-blue sidebar-collapse sidebar-mini login-page">
+<body class="hold-transition skin-black-light sidebar-collapse sidebar-mini login-page">
  
   <?php
 
